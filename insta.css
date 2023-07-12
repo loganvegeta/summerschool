@@ -1,0 +1,87 @@
+@font-face {
+    font-family: 'Anydore';
+    src: url('josephsophia.otf') format('opentype');
+    font-weight:50;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ROBOTA';
+    src: url('Roboto-Black.otf') format('opentype');
+    font-weight:normal;
+    font-style: normal;
+}
+.insta{
+    margin: auto;
+    color: black;
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 5px;
+    font-size: 60px;
+    font-family:'Anydore';
+}
+.inp{
+    margin-top: 8px;
+    color: black;
+    align-items: center;
+    padding: 10px;
+    border-width:1px;
+    border-style:solid;
+    border-color: black;
+    border-radius: 4px;
+    background-color:azure;
+    width: 250px;
+    height: 20px;
+}
+#sub1{
+    margin-top: 15px;
+    width: 270px;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    background-color: cornflowerblue;
+    color: white;
+    border: 100 px;
+    border-radius: 10px;
+}
+.hline{
+    border-top: 1px solid rgb(0, 0, 0);
+    width: 55%;
+    margin: auto;
+    margin-top: 25px;
+}
+.img{
+    width: 20px;
+    height: 20px;
+}
+.link{
+    margin-top: 10px;
+    text-decoration: none;
+    color: rgb(52,84,132);
+    font-weight: bolder;
+    font-family: 'ROBOTA';
+}
+.pass{
+    margin-top: 10px;
+    text-align: center;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 10px;
+    padding-bottom: 17px;
+}
+.head{
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    padding: 10px;
+    width: 30%;
+}
+.tail{
+    margin: auto;
+    margin-top: 10px;
+    border: 1px solid black;
+    text-align: center;
+    width: 30.5%;
+    padding: 7px;
+    font-size: 17px;
+}
